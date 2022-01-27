@@ -21,6 +21,7 @@ if (err) {
     console.error(err)
     return
     process.exit(1)
+    
 }
 // Define a const `server` as an arrow function using http.createServer. 
 // Use the documentation for the node.js http module. 
